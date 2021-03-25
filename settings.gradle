@@ -1,0 +1,4 @@
+include ':anotherapplication'
+include ':dynamicfeature'
+include ':app'
+rootProject.name='Instant Test Application'

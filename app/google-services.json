@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "203244836062",
+    "project_id": "instant-app-test-abbe0",
+    "storage_bucket": "instant-app-test-abbe0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203244836062:android:908f1388d596eb001c5e4f",
+        "android_client_info": {
+          "package_name": "com.example.instanttestapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203244836062-g2msml3hekc2r5lv0cvds5qa5ekl64vh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANJuIwYcOhXcBFyZG4jQ122HYcqqPF9OQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203244836062-g2msml3hekc2r5lv0cvds5qa5ekl64vh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
